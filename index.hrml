@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RM11 Masakan Padang: Rasa Legendaris, Harga Bersahabat!</title>
+  <style>
+    :root {
+      --primary: #d35400;
+      --dark: #2c3e50;
+      --light: #fffaf2;
+      --accent: #e74c3c;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: var(--light);
+      color: var(--dark);
+      line-height: 1.7;
+    }
+
+    header {
+      background-color: var(--primary);
+      padding: 1rem 2rem;
+      text-align: center;
+      color: white;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      letter-spacing: 1px;
+    }
+
+    nav {
+      background-color: var(--accent);
+      padding: 0.5rem 2rem;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      margin: 0 1rem;
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    main {
+      padding: 2rem;
+      max-width: 960px;
+      margin: auto;
+    }
+
+    h2 {
+      color: var(--dark);
+      border-bottom: 3px solid var(--primary);
+      padding-bottom: 0.5rem;
+      margin-top: 2rem;
+    }
+
+    blockquote {
+      background-color: #ffe9d6;
+      border-left: 5px solid var(--primary);
+      margin: 1.5rem 0;
+      padding: 1rem;
+      font-style: italic;
+      color: #555;
+    }
+
+    ul, ol {
+      padding-left: 1.8rem;
+      margin: 1rem 0;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+    }
+
+    th, td {
+      border: 1px solid #d35400;
+      padding: 0.8rem;
+      text-align: center;
+      background-color: #fff5e6;
+    }
+
+    th {
+      background-color: #ffd6a0;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: var(--primary);
+      color: white;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>RM11 Masakan Padang: Rasa Legendaris, Harga Bersahabat!</h1>
+</header>
+
+<nav>
+  <a href="#">Beranda</a>
+  <a href="#">Menu Andalan</a>
+  <a href="#">Tips Masak Padang</a>
+  <a href="#">Kontak RM11</a>
+</nav>
+
+<main>
+  <p>
+    Di tengah gempuran restoran modern dan makanan kekinian, <strong>RM11 Masakan Padang</strong> justru makin dicari. Bukan tanpa alasan—rasa autentik, sambal meledak di lidah, dan porsi mantap bikin tempat makan ini viral di kalangan pencinta kuliner sejati.
+  </p>
+
+  <h2>1. Apa Rahasianya RM11 Tetap Ramai Setiap Hari?</h2>
+  <p>
+    RM11 punya formula sederhana: bahan segar, bumbu turun-temurun, dan teknik masak tradisional. Setiap rendang, ayam pop, sampai gulai kepala ikan dimasak dengan sabar, bukan sekadar asal jadi.
+  </p>
+  <blockquote>
+    "Kalau cuma kenyang sih gampang, tapi kalau mau puas dan nagih? Harus masakan Padang RM11."
+  </blockquote>
+  <p>
+    Uniknya, meski harga tetap merakyat, kualitas rasa nggak pernah diturunin. Bahkan pelanggan langganan sering bilang: "Bisa jadi rumah makan terenak se-Kecamatan!"
+  </p>
+
+  <h2>2. Interior Sederhana, Fokus ke Rasa</h2>
+  <p>
+    RM11 nggak perlu dekor mewah. Kursi kayu, meja panjang, dan kipas angin yang berputar pelan udah cukup buat bikin suasana makan jadi syahdu. Semua fokus ke rasa!
+  </p>
+
+  <p>
+    Kamu bisa makan di tempat atau bungkus buat dibawa pulang. Nggak ada antre lama, semua tertata rapi. Bahkan pelayan udah hafal menu favorit tiap pelanggan tetap.
+  </p>
+
+  <h2>3. Menu Harian RM11: Selalu Ada Kejutan</h2>
+  <p>
+    Tiap hari, RM11 selalu punya “menu kejutan”. Kadang muncul dendeng balado super pedas, kadang ada sambalado tanak dengan jengkol yang empuk maksimal. Inilah yang bikin pelanggan betah mampir terus.
+  </p>
+  <ul>
+    <li>Rendang sapi yang selalu ludes duluan</li>
+    <li>Ayam bakar bumbu merah spesial Jumat</li>
+    <li>Perkedel kentang renyah luar, lembut dalam</li>
+    <li>Sambal hijau andalan yang selalu bikin nambah nasi</li>
+  </ul>
+
+  <h2>4. Komunitas Pelanggan Setia: RM11 Lovers</h2>
+  <p>
+    Nggak sedikit yang datang ke RM11 bukan cuma buat makan, tapi juga buat nongkrong dan diskusi menu. Bahkan ada grup WhatsApp khusus pelanggan RM11 buat info “menu hari ini”.
+  </p>
+  <p>
+    Mereka sering berbagi tips makan hemat, review jujur tiap menu baru, sampai adu pedas siapa yang kuat makan sambal 3 sendok. Seru banget dan bikin RM11 punya vibes kekeluargaan.
+  </p>
+
+  <h2>5. Proses Cepat, Rasa Tetap Mantap</h2>
+  <p>
+    Meski antrean kadang mengular, proses saji tetap cepat. Semua udah dipersiapkan dengan sistem yang rapi. Kamu tinggal tunjuk menu, nasi langsung diguyur kuah panas yang melelehkan hati.
+  </p>
+  <p>
+    Staf juga sigap bantuin, bahkan suka kasih bonus potongan ayam atau ekstra sambal buat pelanggan langganan. Pokoknya, pelayanan di RM11 tuh bikin kamu merasa kayak makan di rumah sendiri.
+  </p>
+
+  <h2>Penutup: RM11, Bukti Kalau Masakan Padang Tak Pernah Salah</h2>
+  <p>
+    Dalam dunia kuliner yang makin cepat berubah, RM11 jadi bukti bahwa rasa tradisional tetap punya tempat di hati. Di sini, makan bukan sekadar kenyang, tapi tentang pengalaman, cerita, dan kepuasan batin.
+  </p>
+
+  <p>
+    Kalau kamu belum pernah cobain RM11, fix kamu ketinggalan tren kuliner paling mantap. Yuk, cobain sekali, dan siap-siap ketagihan. Karena di RM11, rasa nggak pernah bohong!
+  </p>
+</main>
+
+<footer>
+  &copy; 2025 RM11 - Masakan Padang Autentik, Harga Merakyat
+</footer>
+
+</body>
+</html>
